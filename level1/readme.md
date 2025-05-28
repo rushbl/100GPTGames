@@ -5,7 +5,7 @@
 
 ## How to Use This Project
 
-1. Create a new project in **RPG Maker MV**. Note that the project also used Yanfly's [Move_Route_Core](http://www.yanfly.moe/wiki/Move_Route_Core_(YEP) ) plug for script based movement. Feel free to contact me if there is any concern or problem. 
+1. Create a new project in **RPG Maker MV**. Note that the project also uses Yanfly's [Move_Route_Core](http://www.yanfly.moe/wiki/Move_Route_Core_(YEP) ) plug for script based movement. Feel free to contact me if there is any concern or problem. 
 2. Download this project and **copy all folders/files**, replacing the originals in your RPG Maker project directory.
 3. Add the plugin `callAI.js` from the `/js/plugins` folder into your game using the **Plugin Manager**.
 4. Configure your Azure OpenAI credentials:
