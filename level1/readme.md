@@ -36,8 +36,9 @@ The AI is used to interpret natural language input and determine game behavior b
   "position": [x, y], // Required if intent is "move"
   "message": "Text to display" // Required if intent is "bubble" or "speak"
 }
+```
 
-
+### AI role definition
 
 ```
  const body = {
