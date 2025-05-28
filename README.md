@@ -1,6 +1,6 @@
-# 100GPTGame
+# 100GPTGames
 
-**100GPTGame** is an experimental project that explores how large language models like OpenAI’s GPT can enhance and reimagine traditional game mechanics, storytelling, and interactivity. Everyone is welcome to join or contribute to the project!
+**100GPTGames** is an experimental project that explores how large language models like OpenAI’s GPT can enhance and reimagine traditional game mechanics, storytelling, and interactivity. Everyone is welcome to join or contribute to the project!
 
 ## 🌟 Level 1 - Catch the bat (10%)
 
