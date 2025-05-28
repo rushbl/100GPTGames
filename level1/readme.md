@@ -64,3 +64,20 @@ The AI is used to interpret natural language input and determine game behavior b
 ### Step 2 Orchestrator Logic
 
 Once the AI returns its JSON response, an orchestrator-like function parses the result and triggers the appropriate in-game actions such as moving the player, displaying speech bubbles, or executing dialogue.
+
+```
+switch (intent) {
+        case 'move':
+            ....
+        case 'bubble':
+            console.log(`[Orchestrator] Showing bubble message: ${message}`);
+            $gameMap.event(TargetEventId).requestAnimation(1);
+            $gameMessage.add("I catch you!");
+            break;
+
+      case 'speak':
+            console.log(`[Orchestrator] Showing dialogue: ${message}`);
+            $gameMessage.add("I see you");
+            break;
+
+```
