@@ -11,10 +11,7 @@ In this case, using AI is like taking off the pants just to fart — totally unn
 - **How to play**: Catch the bat from behind.
 - **AI function**: Create a plugin to call the Azure OpenAI service, then use it to control the game workflow and determine whether the player is behind the bat.
 
-
 <img src="./level1/media/game1-plugin.png" width="900">
-
-<img src="./level1/media/game1-callapi.png" width="900">
 
 
 
