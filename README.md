@@ -4,7 +4,7 @@
 
 ## 🌟 Level 1 - Catch the bat (10%)
 
-In this case, using AI is like taking off the pants just to fart — totally unnecessary. But the main purpose of the first game is to explore how to integrate the LLM mode into the game.
+In this case, using AI is like doing something for the sake of doing it — totally unnecessary. But the main purpose of the first game is to explore how to integrate the LLM mode into the game.
 
 - **Game engine**: RPG maker MV. RPG Maker is built by using JavaScript, which makes it easier to interact with LLM APIs.
 - **LLM API**: Azure OpenAI.
