@@ -10,6 +10,7 @@
 - Context awareness: One major challenge is helping the AI understand in-game factors. 
 For example, I want to create an AI-driven NPC to complete a specific task. However, since the NPC lacks any visual perception, it's challenges to pass all game states—like other NPC's behaviors or the structure of the map to the NPC.
 
+## About Catch the bat
 
 In this case, using AI is like doing something for the sake of doing it — totally unnecessary. But the main purpose of the first game is to explore how to integrate the LLM mode into the game.
 
